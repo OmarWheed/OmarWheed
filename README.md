@@ -2,17 +2,19 @@
 
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Architect;Passionate+about+Clean+Code+%26+Beautiful+UI)](https://github.com/omarwheed)
 
-🚀 Crafting high-performance cross-platform mobile apps with Flutter & Dart  
-Building responsive, maintainable, and production-ready solutions.
+🚀 Crafting high-performance cross-platform mobile apps with Flutter & Dart. Building responsive, maintainable, and production-ready solutions.
 
 ---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-wheed" target="_blank">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="55" alt="LinkedIn" title="Connect on LinkedIn" style="margin-right: 15px;">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="50" alt="LinkedIn" title="Connect on LinkedIn">
   </a>
   <a href="mailto:wheedomar88@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="55" alt="Email" title="Send Email">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50" alt="Email" title="Send Email">
+  </a>
+  <a href="https://github.com/omarwheed" target="_blank">
+    <img src="https://img.icons8.com/color/96/github.png" width="50" alt="GitHub" title="GitHub Profile">
   </a>
 </p>
 
@@ -20,47 +22,56 @@ Building responsive, maintainable, and production-ready solutions.
 
 ## 💡 About Me
 
-- 🎯 **Specialized in:** Building scalable Flutter apps using **BLoC** and **Clean Architecture**  
-- 🧠 **Currently exploring:** Metaprogramming, code generation, and runtime optimizations  
-- ⚙️ **Experienced with:** Firebase, REST APIs, and local databases like **sqflite** and **Hive**  
-- 🌍 **Open to:** Collaboration and contributing to open-source Flutter projects  
+- 🎯 **Specialized in:** Building scalable, robust cross-platform applications using **Flutter**, **Clean Architecture**, and **BLoC/Cubit**.
+- 🏗️ **Architecture & Design:** Committed to **SOLID principles**, design patterns, and reactive programming (**RxDart**, **MVI**, **MVVM**).
+- 🧠 **Currently exploring:** Metaprogramming, code generation, and runtime optimizations.
+- ⚙️ **Backend & Tooling:** Experienced with Firebase, Supabase, REST APIs, Retrofit, and CI/CD pipelines with Fastlane & Docker.
+- 🌍 **Open to:** Collaboration, architectural discussions, and contributing to open-source Flutter projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=dart,flutter,firebase,sqlite,java,vscode,git,github,androidstudio,postman)
-
----
-
-## 📦 Packages I Work With
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/flutter.png" width="60" alt="BLoC">
-  <b>BLoC</b> — Predictable state management for reactive apps.<br><br>
-
-  <img src="https://img.icons8.com/color/96/flutter.png" width="60" alt="Provider">
-  <b>Provider</b> — Simple state management for efficient widget data sharing.<br><br>
-
-  <img src="https://img.icons8.com/color/96/api.png" width="60" alt="Retrofit">
-  <b>Retrofit</b> — Type-safe API client for maintainable networking.<br><br>
-
-  <img src="https://img.icons8.com/color/96/code.png" width="60" alt="Freezed">
-  <b>Freezed</b> — Immutable data classes with code generation support.<br><br>
-
-  <img src="https://img.icons8.com/color/96/compare.png" width="60" alt="Equatable">
-  <b>Equatable</b> — Efficient value comparisons for data classes.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,sqlite,git,github,docker,androidstudio,vscode,postman,linux" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+## 📦 Core Architecture & Ecosystem
 
-- 🚀 Publish my first Flutter app on **Google Play Store**  
-- 🧩 Master Flutter performance optimization and widget rendering  
-- 🏗️ Build scalable app architectures with **BLoC** and **Clean Architecture**  
-- 💡 Expand my portfolio with innovative and impactful mobile applications  
+| Category | Tools & Libraries |
+| :--- | :--- |
+| **State Management** | BLoC, Cubit, Provider, Riverpod |
+| **Networking & API** | Dio, Retrofit, Socket.io, WebSockets |
+| **Dependency Injection** | GetIt, Injectable |
+| **Code Generation** | Freezed, Equatable, Json Serializable |
+| **Local Storage** | Hive, Sqflite, Shared Preferences |
 
 ---
 
-<h3 align="center" style="color:#00BFA6;">✨ "Great apps are crafted with passion, precision, and persistence." ✨</h3>
+## 🚀 Featured Production App
+
+### **Tonus Club**
+A production-ready mobile application delivering an optimized fitness and lifestyle experience, built with clean architecture and robust performance.
+
+<p align="center">
+  <img width="100%" alt="Tonus Club Banner" src="https://github.com/user-attachments/assets/71e68e9a-b5fa-42c2-bb1c-d677f8484864" />
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.tonusclub.app" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Get it on Google Play">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/eg/app/tonus-club/id6797919173" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="50" alt="Download on the App Store">
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_Scaleable_Flutter_Apps-36BCF7?style=for-the-badge&logo=flutter&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_Architecture_%26_SOLID-blueviolet?style=for-the-badge" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Focus-Metaprogramming_%26_Optimizations-success?style=for-the-badge" alt="Focus" />
+</p>
